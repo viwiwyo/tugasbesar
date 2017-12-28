@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Info mobil</string>
+    <string name="merk">
+        <item>Toyota</item>
+    </string>
+    <string-array name="nama_tipe">
+        <item>Alphard</item>
+        <item>Avanza</item>
+        <item>Fortuner</item>
+        <item>Kijang</item>
+        <item>Sienta</item>
+    </string-array>
+    <string-array name="harga">
+        <item>Rp. 500.000.000</item>
+        <item>Rp. 400.000.000</item>
+        <item>Rp. 600.000.000</item>
+        <item>Rp. 360.000.000</item>
+        <item>Rp. 550.000.000</item>
+    </string-array>
+    <string-array name="judulnews">
+        <item>Honda Accord New Spek</item>
+        <item>Honda Civic Type R new</item>
+        <item>Fortuner VRZ</item>
+        <item>Honda CIty New Spek</item>
+        <item>Honda CRV new</item>
+    </string-array>
+    <string-array name="isidikit">
+        <item>Mesin Baru 2400cc</item>
+        <item>Mesin Baru 1600cc Turbo</item>
+        <item>Mesin Baru 1800cc Tubro</item>
+        <item>Mesin Baru 2400cc</item>
+        <item>Mesin Baru 1600cc Turbo</item>
+    </string-array>
+    <string-array name="nama">
+        <item>Toyota Nasmoco Gombel</item>
+        <item>Honda Kusuma </item>
+        <item>Suzuki</item>
+        <item>Zirang Daihatsu</item>
+        <item>Nissan </item>
+    </string-array>
+    <string-array name="lok">
+        <item>Setia Budi</item>
+        <item>MT Haryono</item>
+        <item>Kali Banteng</item>
+        <item>Dr.Cipto</item>
+        <item>Kali Banteng </item>
+    </string-array>
+</resources>

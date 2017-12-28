@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "405820076094",
+    "firebase_url": "https://infomobilcars.firebaseio.com",
+    "project_id": "infomobilcars",
+    "storage_bucket": "infomobilcars.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405820076094:android:bb79f481ba797678",
+        "android_client_info": {
+          "package_name": "id.web.yogataupan.infomobil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405820076094-0j4p2orh6v4oiab5uqr04ufutc98j86c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.web.yogataupan.infomobil",
+            "certificate_hash": "4f4a42b95050d2e4d9ecc5e9adea301483535676"
+          }
+        },
+        {
+          "client_id": "405820076094-an73h4od5rdrnku9rd43pe01jbavv0qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOxNOdCUssPYi-GPM2FUjCAtI6Rkzss2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405820076094-an73h4od5rdrnku9rd43pe01jbavv0qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

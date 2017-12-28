@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="id.web.yogataupan.infomobil.lokasi_atpm">
+
+    <view
+        android:id="@+id/viewatpm"
+        class="android.support.v7.widget.RecyclerView"
+        id="@+id/view2"
+        layout_alignParentLeft="true"
+        layout_alignParentStart="true"
+        layout_alignParentTop="true"
+        layout_marginLeft="69dp"
+        layout_marginStart="69dp"
+        layout_marginTop="70dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView7"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="121dp"
+        android:layout_marginStart="121dp"
+        android:text="Lokasi ATPM"
+        android:textSize="22sp" />
+</RelativeLayout>
